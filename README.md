@@ -12,7 +12,6 @@ A data analysis project that explores crime trends in Los Angeles using Python a
 - [Usage](#usage)
 - [Visualization Highlights](#visualization-highlights)
 - [Dependencies](#dependencies)
-- [Configuration](#configuration)
 - [Examples](#examples)
 - [Troubleshooting](#troubleshooting)
 - [Contributors](#contributors)
@@ -92,13 +91,6 @@ Install all dependencies using:
 pip install -r requirements.txt
 ```
 
----
-
-## 🛠️ Configuration
-
-If your project uses config files or specific folder structures, specify here. Otherwise, remove this section.
-
----
 
 ## 🧪 Examples
 
@@ -108,7 +100,8 @@ You could include a few screenshots or a GIF of your output here for visual appe
 - Bar chart of crime types before COVID
 - Line chart of crime frequency over time
 
-> *(Add images to your GitHub repo and reference them here using Markdown.)*
+![Alt text](Crime distribution by month.png)
+
 
 ---
 
@@ -122,7 +115,7 @@ You could include a few screenshots or a GIF of your output here for visual appe
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/manishsarmaa)
 
 Feel free to open issues or pull requests to contribute!
 
