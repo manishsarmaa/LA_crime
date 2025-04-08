@@ -57,7 +57,15 @@ This project analyzes and visualizes crime data from Los Angeles, showcasing how
 
 ---
 
+---
+
 ## 🚀 Usage
+
+> ⚠️ **Note:** Due to the large file size of this project, GitHub might not render all files directly in the browser.  
+> 🔽 To explore the project:
+> - **Download the repository** and open it locally, **OR**
+> - **Use VS Code in the browser** by visiting:  
+>   👉 `https://vscode.dev/github/manishsarmaa/LA_crime`
 
 1. Make sure the dataset (e.g., `LA_crime_data.csv`) is placed in the project directory or update the path in the script accordingly.
 2. Run the analysis script:
@@ -66,6 +74,9 @@ This project analyzes and visualizes crime data from Los Angeles, showcasing how
    ```
 3. Outputs such as charts and maps will be saved in the `outputs/` directory or displayed inline if run in a Jupyter Notebook.
 
+---
+
+Let me know if you want me to regenerate the full `README.md` with this change included!
 ---
 
 ## 🌐 Visualization Highlights
