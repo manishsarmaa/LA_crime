@@ -102,14 +102,7 @@ pip install -r requirements.txt
 
 ## 🧪 Examples
 
-You could include a few screenshots or a GIF of your output here for visual appeal:
-
-- Crime Heatmap of LA
-- Bar chart of crime types before COVID
-- Line chart of crime frequency over time
-
-![HEAT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-ENTPA7__uB97hJZzqYNxBF5n9tfa4SnqfvzI--y50votlvnMTDiBKEXSsZjkiwEIW8&usqp=CAU)
-
+- Check Ouput Folder For Visualization
 ---
 
 ## 🧯 Troubleshooting
