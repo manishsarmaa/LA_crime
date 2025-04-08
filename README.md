@@ -76,9 +76,6 @@ This project analyzes and visualizes crime data from Los Angeles, showcasing how
 
 ---
 
-Let me know if you want me to regenerate the full `README.md` with this change included!
----
-
 ## 🌐 Visualization Highlights
 
 - **Time-Series Charts**: Analyze crime frequency over time and during key periods (COVID-related timelines).
@@ -111,6 +108,7 @@ You could include a few screenshots or a GIF of your output here for visual appe
 - Bar chart of crime types before COVID
 - Line chart of crime frequency over time
 
+![HEAT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-ENTPA7__uB97hJZzqYNxBF5n9tfa4SnqfvzI--y50votlvnMTDiBKEXSsZjkiwEIW8&usqp=CAU)
 
 ---
 
