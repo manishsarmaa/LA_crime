@@ -100,8 +100,6 @@ You could include a few screenshots or a GIF of your output here for visual appe
 - Bar chart of crime types before COVID
 - Line chart of crime frequency over time
 
-![Alt text](Crime distribution by month.png)
-
 
 ---
 
@@ -115,7 +113,7 @@ You could include a few screenshots or a GIF of your output here for visual appe
 
 ## 👥 Contributors
 
-- [Your Name](https://github.com/manishsarmaa)
+- [Manish Sharma](https://github.com/manishsarmaa)
 
 Feel free to open issues or pull requests to contribute!
 
